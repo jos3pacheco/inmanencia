@@ -1,0 +1,31 @@
+window.SITE = {
+  name: "INMANENCIA",
+  artist: "Samuel Bonds",
+  motto: "Nada fue planeado, pero todo estaba ahí",
+  whatsapp: "50230390115",
+  whatsappLabel: "+502 3039 0115",
+  website: "https://www.sambondsphoto.com/",
+  instagram: "https://www.instagram.com/sambondsphoto/",
+};
+
+window.WORKS = [
+  { slug: "animal-de-sombra", title: "Animal de Sombra", size: "20 × 30.5 cm", price: 250 },
+  { slug: "arco-interno", title: "Arco Interno", size: "20 × 30.5 cm", price: 150 },
+  { slug: "el-balletista", title: "El Balletista", size: "20 × 30.5 cm", price: 200 },
+  { slug: "binomio-disonante", title: "Binomio Disonante", size: "20 × 30.5 cm", price: 250 },
+  { slug: "carga-compartida", title: "Carga Compartida", size: "20 × 30.5 cm", price: 200 },
+  { slug: "cuerpo-contra-el-cielo", title: "Cuerpo contra el cielo", size: "20 × 30.5 cm", price: 120 },
+  { slug: "cuerpo-proyectado", title: "Cuerpo Proyectado", size: "38 × 51 cm", price: 500 },
+  { slug: "eje-interno", title: "Eje Interno", size: "30.5 × 20 cm", price: 150 },
+  { slug: "espejo-de-gestos", title: "Espejo de gestos", size: "20 × 30.5 cm", price: 200 },
+  { slug: "grito-sin-voz", title: "Grito sin voz", size: "34 × 51 cm", price: 500 },
+  { slug: "inclinacion-inmanente", title: "Inclinación Inmanente", size: "51 × 34 cm", price: 400 },
+  { slug: "inmanencia", title: "INMANENCIA", size: "133 × 107 cm", price: 1250 },
+  { slug: "intercambio", title: "Intercambio", size: "20 × 30.5 cm", price: 200 },
+  { slug: "linea-de-vida", title: "Línea de Vida", size: "51 × 34 cm", price: 350 },
+  { slug: "reverberacion", title: "Reverberación", size: "56 × 41 cm", price: 700 },
+  { slug: "susurro-de-sal-y-gasa", title: "Susurro de sal y gasa", size: "30.5 × 20 cm", price: 200 },
+  { slug: "silencio-con-forma", title: "Silencio con forma", size: "34 × 51 cm", price: 450 },
+  { slug: "centro-solar", title: "Centro Solar", size: "51 × 34 cm", price: 350 },
+  { slug: "umbral-interior", title: "Umbral Interior", size: "20 × 25 cm", price: 100 },
+];
